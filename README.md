@@ -8,4 +8,5 @@
 
 # Conclusion
 - Probably not doing anything useful and should not be allowed in any web API
-
+- Show abuse casese and still abuse has always been there intent and strategy with Earth,
+- sad when humans wanted to work against someone above in all way on relations to life and planes are scary on autopilot?
