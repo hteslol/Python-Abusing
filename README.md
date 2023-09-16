@@ -1,5 +1,5 @@
-# Helloseth
-- 9/14/2023
-- ###### Seth, after deleting account https://github.com/sthdsnts  
+# Scripting language for mining purposes (crypto) on API's that support any pthon usage i.e. Discord/Twitch/Twitter(X)
 
-Just a personal project of mine, monitoring push vs pull on momentum.
+## See ownshership of license change, between 2 and 3 (https://docs.python.org/3.11/license.html)
+- Taking advantage of an observed change in language development of Python with intent to prevent.
+
